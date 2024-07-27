@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Elijah Gamael Baluza</h1>
 <h3 align="center">A passionate software developer and electrical engineer in Kenya</h3>
 
-- 🔭 I’m currently working on **Hostel booking management**
+- 🔭 I’m currently working on **Device Security System**
 
 - 🌱 I’m currently learning **Ruby on Rails, PHP, Ruby and Rust languages and framework**
 
-- 💬 Ask me about **Mikro C, Arduino, C & C++, KiCaD, Flutter, Java, and Hardware**
+- 💬 Ask me about **Mikro C, Arduino, C & C++, KiCaD, Flutter, Java, Iot, and Hardware**
 
 - 📫 How to reach me **gamabaluza@gmail.com**
 
